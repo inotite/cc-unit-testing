@@ -1,0 +1,14 @@
+{
+  "solidity.linter": "solhint",
+  "solidity.solhintRules": {
+    "avoid-sha3": "warn"
+  },
+  "editor.formatOnSave": true,
+  "solidity.formatter": "prettier",
+  "[solidity]": {
+    "editor.defaultFormatter": "JuanBlanco.solidity"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
